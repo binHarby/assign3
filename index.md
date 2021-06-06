@@ -32,11 +32,11 @@ Class: Operating Systems
 ![pic8](./q3.png)
 
 ## Question 4
->     4. Partition the new disk with the following settings (you can use any utility in Linux you like for partitioning but it should be command line interface based and should NOT be GUI based):
--   Type: Primary 
--   Number: 1 
--   First Sector: Default 
--   Last Sector / Size: 300M 
+>     4. Partition the new disk with the following settings (you can use any utility in Linux you like for partitioning but it should be command line interface based and should NOT be GUI based): 
+> -   Type: Primary 
+> -   Number: 1 
+> -   First Sector: Default 
+> -   Last Sector / Size: 300M 
 
 ![pic9](./q4_a.png)
 ## Question 5 
