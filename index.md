@@ -11,7 +11,7 @@ Class: Operating Systems
 ---
 
 ## Question 1
-> Q: Create some space on your hard drive to work on this assignment (highly recommended to use VirtualBox or other virtual machine software to assign some space for the Guest OS to create partition and file system). This would mimic a new hard drive attached to your Guest OS. You can also use a separate USB drive for this assignment but it is not recommended. 
+> Create some space on your hard drive to work on this assignment (highly recommended to use VirtualBox or other virtual machine software to assign some space for the Guest OS to create partition and file system). This would mimic a new hard drive attached to your Guest OS. You can also use a separate USB drive for this assignment but it is not recommended. 
 
 
 Answer: Through the GUI of virtual box we can add a virtual harddrive where we can do the assignment with  
