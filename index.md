@@ -41,29 +41,37 @@ Class: Operating Systems
 
 ![pic9](./q4_a.png)
 ## Question 5 
-
+> Print the partition table to view the partition and ensure that type is Linux
 
 ![pic10](./q5.png)
 
 ## Question 6
+
+> Make an ext3 filesystem for this newly created partition that allows Journaling system
 
 
 ![pic11](./q6.png)
 
 ## Question 7
 
+> Mount this filesystem at ~/newvolume (where newvolume is a directory)
 
 ![pic12](./q7.png)
 
 ## Question 8 
 
+> Navigate to this directory to verify the filesystem is mounted, e.g., should contain lost+found 
+
 ![pic13](./q7.png)
 
 ## Question 9 
 
+> Finally, create a directory named, “Operating System” on this volume and place any file inside this directory. 
 
 ![pic14](./q9.png)
 
 ## Question 10
+
+> This newly created directory named, “Operating System” should be read-only for all the users on the system except “root” that has read, write and executable permissions on this directory.
 
 ![pic15](./q10.png)
