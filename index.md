@@ -15,7 +15,7 @@ Class: Operating Systems
 
 
 Answer: Through the GUI of virtual box we can add a virtual harddrive where we can do the assignment with 
-** VM settings> storage > add virtual drive> follow gui instructions and make it a secondary drive **
+**VM settings> storage > add virtual drive> follow gui instructions and make it a secondary drive**
 
 
 
