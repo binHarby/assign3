@@ -58,9 +58,7 @@ Answer: with the above command we can get both the name of the new disk, and its
 
 > -   Type: Primary 
 > -   Number: 1 
-
 > -   First Sector: Default 
-
 > -   Last Sector / Size: 300M 
 
 
