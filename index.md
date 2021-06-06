@@ -54,12 +54,7 @@ Answer: with the above command we can get both the name of the new disk, and its
 ## Question 4
 >     4. Partition the new disk with the following settings 
 >     (you can use any utility in Linux you like for partitioning 
-
-
-
 >     but it should be command line interface based and should NOT be GUI based): 
-
-
 > -   Type: Primary 
 
 
