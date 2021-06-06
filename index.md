@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Assignment 3 Answers
 
-You can use the [editor on GitHub](https://github.com/binHarby/assign3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Name: Abdulla Alameri
 
-### Markdown
+ID: 1070401
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Class: Operating Systems
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Question 1
+> Create some space on your hard drive to work on this assignment (highly recommended to use VirtualBox or other virtual machine software to assign some space for the Guest OS to create partition and file system). This would mimic a new hard drive attached to your Guest OS. You can also use a separate USB drive for this assignment but it is not recommended.
 
-- Bulleted
-- List
+![pic1](./q1_a.png)
+![pic2](./q1_b.png)
+![pic3](./q1_c.png)
+![pic4](./q1_d.png)
 
-1. Numbered
-2. List
+## Question 2
+> Verify the new disk (new space) in the Guest OS (Linux through GUI and Terminal)
 
-**Bold** and _Italic_ and `Code` text
+![pic5](./q2_a.png)
+![pic6](./q2_b.png)
+![pic7](./q2_d.png)
 
-[Link](url) and ![Image](src)
-```
+## Question 3
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> Get the name of the new disk before partitioning it (you can use any built-in utilities in Linux for getting the name)
 
-### Jekyll Themes
+![pic8](./q3.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binHarby/assign3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Question 4
+>     4. Partition the new disk with the following settings (you can use any utility in Linux you like for partitioning but it should be command line interface based and should NOT be GUI based):
+-	Type: Primary 
+-	Number: 1 
+-	First Sector: Default 
+-	Last Sector / Size: 300M 
 
-### Support or Contact
+![pic9](./q4_a.png)
+## Question 5 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![pic10](./q5.png)
+
+## Question 6
+
+
+![pic11](./q6.png)
+
+## Question 7
+
+
+![pic12](./q7.png)
+
+## Question 8 
+
+![pic13](./q7.png)
+
+## Question 9 
+
+
+![pic14](./q9.png)
+
+## Question 10
+
+![pic15](./q10.png)
