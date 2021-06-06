@@ -52,7 +52,8 @@ Answer: with the above command we can get both the name of the new disk, and its
 ![pic8](./q3.png)
 
 ## Question 4
->     4. Partition the new disk with the following settings (you can use any utility in Linux you like for partitioning 
+>     4. Partition the new disk with the following settings 
+>     (you can use any utility in Linux you like for partitioning 
 
 
 
